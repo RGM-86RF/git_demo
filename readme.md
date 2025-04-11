@@ -11,6 +11,7 @@ git log
 git remote add origin <url>
 git branch
 git checkout -b <branch_name>
+git merge <branch_name>
 ```
 
 ## First Time Setup Process
