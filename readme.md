@@ -28,7 +28,7 @@ git add -A     # Add all files
 4. Add the remote repository
     - ``` git remote add origin <url>```
 5. Push the changes to the remote repository
-    - ``` git push origin ,branch_name>```
+    - ``` git push origin <branch_name>```
 
     Continuing to use Git Notes
     - ``` git Add -A```
